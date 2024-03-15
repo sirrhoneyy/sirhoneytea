@@ -1,0 +1,22 @@
+{
+  "name": "sirhoneytea",
+  "version": "1.0.0",
+  "description": "new prpject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sirrhoneyy/sirhoneytea.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirrhoneyy/sirhoneytea/issues"
+  },
+  "homepage": "https://github.com/sirrhoneyy/sirhoneytea#readme"
+}
